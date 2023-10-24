@@ -1,0 +1,10 @@
+config.mk linguist-vendored=true
+drw.c linguist-vendored=true
+drw.h linguist-vendored=true
+LICENSE linguist-vendored=true
+Makefile linguist-vendored=true
+README linguist-vendored=true
+dwm.1 linguist-vendored=true
+dwm.c linguist-vendored=true
+util.c linguist-vendored=true
+util.h linguist-vendored=true
