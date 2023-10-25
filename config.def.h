@@ -9,7 +9,7 @@ static const int topbar             = 1;        /* 0 means bottom bar */
 static const int vertpad            = 6;       /* verical padding of bar */
 static const int sidepad            = 6;       /* horizontal padding of bar */
 static const int user_bh            = 2;        /* 2 is the default spacing around the bar's font */
-static const char *fonts[]          = { "CommitMono:size=14" };
+static const char *fonts[]          = { "CommitMono:size=10" };
 static const unsigned int baralpha = 0x10;
 static const unsigned int borderalpha = OPAQUE;
 static const char *colors[][3]      = {
